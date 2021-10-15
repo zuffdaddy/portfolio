@@ -1,11 +1,21 @@
-h2 {
+.header {
   background-color: rgb(181, 228, 228);
   padding: 1rem;
   border-radius: 4px;
 }
 
-h2 span {
+.header p {
   font-size: 14px;
+}
+
+.header a {
+  font-size: 18px;
+  color: #212529;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: #525d68;
 }
 
 .nav {
