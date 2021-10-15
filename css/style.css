@@ -63,9 +63,7 @@ a {
 
 .buttons a {
   border: none;
-  font-size: 20px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  text-transform: capitalize;
 }
 
 .buttons a:hover {
